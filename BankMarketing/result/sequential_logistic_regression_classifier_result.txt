@@ -1,0 +1,9 @@
+***SEQUENTIAL LOGISTIC REGRESSION CLASSIFIER RESULTS***
+##############Accuracy##################
+Training Error = 0.0866715222141
+Mean Squared Error = 0.294400275499
+##############Efficiency################
+Vectorizing Time = 0.839999914169
+Training TIme = 0.361000061035
+Predicting TIme = 0.0130000114441
+Evaluation TIme = 0.00300002098083

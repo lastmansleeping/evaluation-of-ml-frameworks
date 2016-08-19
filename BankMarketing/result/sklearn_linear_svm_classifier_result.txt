@@ -1,0 +1,9 @@
+***SKLEARN LINEAR SVM CLASSIFIER RESULTS***
+##############Accuracy##################
+Training Error = 0.0922554017966
+Mean Squared Error = 0.303735743363
+##############Efficiency################
+Vectorizing Time = 1.00800013542
+Training TIme = 7.49300003052
+Predicting TIme = 0.00399994850159
+Evaluation TIme = 0.00200009346008

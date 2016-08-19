@@ -1,0 +1,9 @@
+***SEQUENTIAL LINEAR SVM CLASSIFIER RESULTS***
+##############Accuracy##################
+Training Error = 0.0907987375577
+Mean Squared Error = 0.301328288678
+##############Efficiency################
+Vectorizing Time = 0.750999927521
+Training TIme = 8.20199990273
+Predicting TIme = 0.00399994850159
+Evaluation TIme = 0.0019998550415

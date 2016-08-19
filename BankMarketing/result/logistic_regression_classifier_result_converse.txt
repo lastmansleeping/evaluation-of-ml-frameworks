@@ -1,0 +1,7 @@
+##############Accuracy##################
+Training Error = 0.113377033261
+Mean Squared Error = 0.33671506242
+##############Efficiency################Vectorizing Time = 0.0
+Training TIme = 8.97699999809
+Predicting TIme = 0.0
+Evaluation TIme = 4.24300003052

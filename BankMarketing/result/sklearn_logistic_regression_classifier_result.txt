@@ -1,0 +1,9 @@
+***SKLEARN LOGISTIC REGRESSION CLASSIFIER RESULTS***
+##############Accuracy##################
+Training Error = 0.0876426317067
+Mean Squared Error = 0.296044982573
+##############Efficiency################
+Vectorizing Time = 0.678000211716
+Training TIme = 0.3109998703
+Predicting TIme = 0.00300002098083
+Evaluation TIme = 0.00200009346008

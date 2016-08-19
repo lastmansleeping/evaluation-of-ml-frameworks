@@ -1,0 +1,9 @@
+***LOGISTIC REGRESSION CLASSIFIER RESULTS***
+##############Accuracy##################
+Training Error = 0.392382784766
+Mean Squared Error = 0.626404649381
+##############Efficiency################
+Vectorizing Time = 205.905999899
+Training TIme = 14364.444
+Predicting TIme = 0.0
+Evaluation TIme = 49.3010001183
